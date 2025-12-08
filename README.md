@@ -1,13 +1,10 @@
-# Comparative-Analysis-of-Bacterial-genomes
+# 
 Bioinformatics analysis can be challenging especially for new entrants. The purpose of this repo is to provide scripts that one can quickly use to perform comparative analysis of bacterial genomes. The scripts have been designed to automate majority of tasks so that beginners can get their hands dirty without having to struggle to assemble and use the analysis tools
 
-More bioinformatics tutorials can be found on my youtube channel: https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ \
-[You can buy me a coffee: https://www.buymeacoffee.com/bioinfocoach] \
-Here is a playlist for bacterial genome analysis: https://www.youtube.com/playlist?list=PLe1-kjuYBZ074A06NOuO9rXCTD3ddoOyz
 
 
-## Support My Work
-[Buy Me a Coffee](https://www.buymeacoffee.com/informatician)
+
+
 
 
 # Download and install anaconda(version 3 recommended)
@@ -149,7 +146,7 @@ The result interpretation are available on my youtube video tutorial : https://y
 Now that you have been able to perform a bacterial comparative genome analysis. Its time to apply your skills on a real world data.
 Good luck and see you next time
 
-### Citation
+### Referencia
 Vincent Appiah, 2020.  Bacterial Genomics Tutorial  https://github.com/vappiah/bacterial-genomics-tutorial
 
 or
