@@ -1,1 +1,2 @@
 # Curso_bioinformatica_UASD
+El análisis bioinformático puede ser un desafío, especialmente para principiantes. El propósito de este repositorio es proporcionar scripts que permitan realizar análisis comparativos de genomas bacterianos rápidamente. Los scripts están diseñados para automatizar la mayoría de las tareas, de modo que los principiantes puedan familiarizarse con el proceso sin tener que complicarse con el ensamblaje y uso de las herramientas de análisis.
