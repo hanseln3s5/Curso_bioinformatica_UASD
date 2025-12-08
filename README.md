@@ -20,7 +20,7 @@ conda config --add channels defaults
 ### Download the Analysis pipeline
 
 ```
-git clone [https://github.com/vappiah/bacterial-genomics-tutorial.git](https://github.com/hanseln3s5/Curso_bioinformatica_UASD.git)
+git clone https://github.com/hanseln3s5/Curso_bioinformatica_UASD.git
 ```
 
 ### Change directory to the dowloaded folder
