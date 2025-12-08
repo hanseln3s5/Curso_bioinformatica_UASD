@@ -146,9 +146,3 @@ The result interpretation are available on my youtube video tutorial : https://y
 Now that you have been able to perform a bacterial comparative genome analysis. Its time to apply your skills on a real world data.
 Good luck and see you next time
 
-### Referencia
-Vincent Appiah, 2020.  Bacterial Genomics Tutorial  https://github.com/vappiah/bacterial-genomics-tutorial
-
-or
-
-Vincent Appiah,2020. Youtube https://youtu.be/S_sRo_85jhs
