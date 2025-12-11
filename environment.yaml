@@ -1,4 +1,4 @@
-name: bacterial-genomics-tutorial
+name: Curso_bioinformatica_UASD
 channels:
   - conda-forge
   - bioconda
