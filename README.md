@@ -7,9 +7,9 @@ Bioinformatics analysis can be challenging especially for new entrants. The purp
 
 
 
-# Download and install anaconda(version 3 recommended)
+# Descargar e instalar Anaconda (version 3 recommended)
 
-### Add channels
+### Agregar canales 
 
 ```
 conda config --add channels conda-forge
@@ -17,7 +17,7 @@ conda config --add channels bioconda
 conda config --add channels defaults
 ```
 
-### Download the Analysis pipeline
+### Descargar el pipeline
 
 ```
 git clone https://github.com/hanseln3s5/.git
