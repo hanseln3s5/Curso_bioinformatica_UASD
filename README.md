@@ -20,13 +20,13 @@ conda config --add channels defaults
 ### Download the Analysis pipeline
 
 ```
-git clone https://github.com/hanseln3s5/Curso_bioinformatica_UASD.git
+git clone https://github.com/hanseln3s5/.git
 ```
 
 ### Change directory to the dowloaded folder
 
 ```
-cd bacterial-genomics-tutorial
+cd Curso_bioinformatica_UASD
 ```
 
 ### Create conda environment.Packages are listed in the environment.yaml file. 
@@ -44,11 +44,11 @@ wget https://github.com/broadinstitute/pilon/releases/download/v1.23/pilon-1.23.
 
 ### Activate the analysis environment
 ```
-source activate bacterial-genomics-tutorial
+source activate Curso_bioinformatica_UASD
 ```
 or
 ```
-conda activate bacterial-genomics-tutorial
+conda activate Curso_bioinformatica_UASD
 ```
 
 ### Add permission to all scripts
